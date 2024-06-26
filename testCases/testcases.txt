@@ -1,0 +1,10 @@
+
+Category page
+-----------------
+Verify Page Title: Ensure that the page title is correct and relevant to the content
+verify all tab links working
+verify all category links are working
+verify the sum of all the count of product under category is equal to total products
+verify the filter functionality
+verify that all product will be clickable
+
