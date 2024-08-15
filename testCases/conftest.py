@@ -8,11 +8,11 @@ from webdriver_manager.opera import OperaDriverManager
 # from webdriver_manager.iedriver import IEDriverManager
 
 
-@pytest.fixture()
-def setup():
-    # driver = webdriver.Chrome(ChromeDriverManager().install())
-    driver = webdriver.Chrome()
-
-    yield driver
-
-    driver.quit()
+    @pytest.fixture()
+    def setup():
+        # driver = webdriver.Chrome(ChromeDriverManager().install())
+        driver = webdriver.Chrome()
+    
+        yield driver
+    
+        driver.quit()

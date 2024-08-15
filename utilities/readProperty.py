@@ -1,4 +1,4 @@
-import configparser
+    import configparser
 import os
 
 # Construct the path to config.ini using os.path.join
@@ -8,6 +8,8 @@ config_file_path = "C:\\Users\\ajay\\classyclix\\configurations\\config.ini"
 # Initialize ConfigParser and read the config file
 config = configparser.RawConfigParser()
 config.read(config_file_path)
+
+
 class Readconfig:
     @staticmethod
     def get_application_url():
@@ -48,8 +50,7 @@ class ReadConfig:
         config.read(os.path.join(os.path.abspath(os.curdir), 'configuration', 'config.ini'))
         login_email = config.get('commonInfo', 'UserEmail')
         return login_email
-
-    @staticmethod
+     @staticmethod
     def get_login_password():
         config = configparser.RawConfigParser()
         config.read(os.path.join(os.path.abspath(os.curdir), 'configuration', 'config.ini'))

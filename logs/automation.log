@@ -135,3 +135,30 @@
 06/26/2024 04:49:35 PM: INFO: Extracted URLs: []
 06/26/2024 11:01:20 PM: INFO: Extracted URLs: ['https://www.classyclix.com/artificial-earrings/', 'https://www.classyclix.com/artificial-necklaces/', 'https://www.classyclix.com/artificial-rings/', 'https://www.classyclix.com/artificial-bracelets/', 'https://www.classyclix.com/artificial-bangles/']
 06/27/2024 01:42:44 AM: INFO: Extracted URLs: ['https://www.classyclix.com/artificial-earrings/', 'https://www.classyclix.com/artificial-necklaces/', 'https://www.classyclix.com/artificial-rings/', 'https://www.classyclix.com/artificial-bracelets/', 'https://www.classyclix.com/artificial-bangles/']
+06/29/2024 01:31:51 AM: DEBUG: gdddddd
+06/29/2024 01:32:02 AM: INFO: maximize page
+06/29/2024 01:32:05 AM: DEBUG: $$$$Clicked on login with email and password$$$$$$$$$
+06/29/2024 12:57:21 PM: DEBUG: gdddddd
+06/29/2024 12:57:30 PM: INFO: maximize page
+06/29/2024 12:57:33 PM: DEBUG: $$$$Clicked on login with email and password$$$$$$$$$
+06/29/2024 01:11:24 PM: DEBUG: gdddddd
+06/29/2024 01:11:30 PM: INFO: maximize page
+06/29/2024 01:11:33 PM: DEBUG: $$$$Clicked on login with email and password$$$$$$$$$
+06/29/2024 01:16:42 PM: INFO: Extracted URLs: ['https://www.classyclix.com/artificial-earrings/', 'https://www.classyclix.com/artificial-necklaces/', 'https://www.classyclix.com/artificial-rings/', 'https://www.classyclix.com/artificial-bracelets/', 'https://www.classyclix.com/artificial-bangles/']
+06/29/2024 01:19:09 PM: DEBUG: gdddddd
+06/29/2024 01:19:14 PM: INFO: maximize page
+06/29/2024 01:19:16 PM: DEBUG: $$$$Clicked on login with email and password$$$$$$$$$
+06/29/2024 01:19:32 PM: INFO: Extracted URLs: ['https://www.classyclix.com/artificial-earrings/', 'https://www.classyclix.com/artificial-necklaces/', 'https://www.classyclix.com/artificial-rings/', 'https://www.classyclix.com/artificial-bracelets/', 'https://www.classyclix.com/artificial-bangles/']
+06/29/2024 01:19:57 PM: INFO: This is an info message
+06/29/2024 01:19:57 PM: DEBUG: This is a debug message
+06/29/2024 01:19:57 PM: ERROR: This is an error message
+06/29/2024 01:41:25 PM: DEBUG: gdddddd
+06/29/2024 01:41:30 PM: INFO: maximize page
+06/29/2024 01:41:33 PM: DEBUG: $$$$Clicked on login with email and password$$$$$$$$$
+06/29/2024 01:41:48 PM: INFO: Extracted URLs: ['https://www.classyclix.com/artificial-earrings/', 'https://www.classyclix.com/artificial-necklaces/', 'https://www.classyclix.com/artificial-rings/', 'https://www.classyclix.com/artificial-bracelets/', 'https://www.classyclix.com/artificial-bangles/']
+06/29/2024 01:42:10 PM: INFO: This is an info message
+06/29/2024 01:42:10 PM: DEBUG: This is a debug message
+06/29/2024 01:42:10 PM: ERROR: This is an error message
+07/18/2024 08:41:41 PM: DEBUG: gdddddd
+07/18/2024 08:41:47 PM: INFO: maximize page
+07/18/2024 08:41:50 PM: DEBUG: $$$$Clicked on login with email and password$$$$$$$$$
